@@ -1,0 +1,1 @@
+=MÉDIASE(tb_rh[SEXO];"FEM";tb_rh[IDADE])
